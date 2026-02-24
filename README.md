@@ -162,3 +162,23 @@ Week view displays:
 - `src/app/page.js` — protected main booking UI.
 - `src/components/SeatGrid.jsx` — seat map with auto‑assigned, floater, and temp‑floater states.
 - `src/components/WeekView.jsx` — weekly allocation overview.
+
+- ---
+
+## 🔑 Demo Credentials
+
+> ⚠️ This project uses Supabase for authentication.  
+> Demo accounts are provided below for evaluation.
+> New accounts can be created using the create account feature.
+
+### 👩‍💼 Admin
+Email: admin@wissen.com  
+Password: 12345678  
+
+### 👨‍💼 Employee – Batch 1
+Email: anushka@wissen.com  
+Password: 12345678  
+
+### 👨‍💼 Employee – Batch 2
+Email: asmi@wissen.com  
+Password: 12345678
